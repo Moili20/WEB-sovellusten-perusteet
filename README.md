@@ -19,13 +19,15 @@
     5. Sivun pitäisi olla näyttävä ja helppokäyttöinen.
 
   # JavaScript Basics 3/5
-    1. On käytetty alerts on button click Contact osiossa kun painaa submit ilmaantuu  napin alle teksti onnistuneesta lähetyksestä.
+    1. On käytetty alerts on button click Contact osiossa kun painaa submit ilmaantuu 
+       napin alle teksti onnistuneesta lähetyksestä.
     2. On käytetty event listener ja DOM manipulations esim. About osiossa.
     3. Functions käytetty esim sivun error handlerissä.
     
   # Asynchronous Operations 4/5
     1. Timers käytetty ilmoitus teksin näkymis ajassa submittaamisen jälkeen.
-    2. Fetch operaatiota on käytetty contact osiossa käyttäen "POST" metodia jonka jälkeen ilmoitus tulee submit buttonin alle.
+    2. Fetch operaatiota on käytetty contact osiossa käyttäen "POST" 
+       metodia jonka jälkeen ilmoitus tulee submit buttonin alle.
     3. "the asynchronous call" näkyy submit buttonin alapuolella.
     4. Nettisivulla on error handler.
 
