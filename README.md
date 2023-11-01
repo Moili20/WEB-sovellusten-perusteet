@@ -1,2 +1,4 @@
 # WEB-sovellusten perusteet
- WEB-project
+ WEB-sivu joka en tehty CSS, HTML ja Javascript koodeja käyttäen.
+
+ 
